@@ -1,2 +1,3 @@
 # ConsoleWindow
-Window in a terminal.
+
+A interactive window in C#.
