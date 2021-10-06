@@ -1,3 +1,3 @@
 # ConsoleWindow
 
-A interactive window in C#.
+A interactive window in console.
